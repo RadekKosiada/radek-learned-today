@@ -81,7 +81,7 @@ class Post extends SSRComponent {
             <title>{`${fields.title} | Today I Learned`}</title>
           </Helmet>
           <Link className="o-paddedLink" to="/">
-            Go back to Home
+            Home
           </Link>
           <Container>
             <Card>

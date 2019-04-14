@@ -22,7 +22,7 @@ export default () => {
          About
         </Link>
         <a href='https://radekkosiada.github.io/' target='blank' className="c-header__button o-btn">
-         More of me
+         My work
         </a>
       </nav>
     </header>
