@@ -18,9 +18,12 @@ export default () => {
           </span>{' '}
           <span aria-hidden="true">Radek learned today</span>
         </div>
-        <Link to={'/tutorial/'} className="c-header__button o-btn">
-          Set up your own!
+        <Link to={'/about/'} className="c-header__button o-btn">
+         About
         </Link>
+        <a href='https://radekkosiada.github.io/' target='blank' className="c-header__button o-btn">
+         More of me
+        </a>
       </nav>
     </header>
   );
